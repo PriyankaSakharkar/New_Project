@@ -42,4 +42,9 @@ h1  {
       border : 5px solid red;
 
 }
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 15px;
+}
 
